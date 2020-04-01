@@ -1,0 +1,56 @@
+baseurl = "https://aminalaee.ir/"
+title = "Amin Alaee | Personal Website"
+theme = "pulp"
+canonifyurls = true
+hasCJKLanguage = true
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+    author = "Amin Alaee"
+    avatar = "software-engineer-vector.jpg"
+    favicon = "software-engineer.ico"
+    description = "Motivaated self-taught Software Engineer"
+    publicationYear = "2020"
+
+[outputs]
+    section = ["JSON", "HTML"]
+    taxonomy = ["JSON", "HTML"]
+
+[[menu.main]]
+    identifier = "blog"
+    pre = "<i class='fa fa-book-open fa-lg'></i>"
+    url = "https://blog.aminalaee.ir"
+    weight = 10
+
+
+[[menu.main]]
+    identifier = "travel"
+    pre = "<i class='fa fa-suitcase fa-lg'></i>"
+    url = "https://travel.aminalaee.ir"
+    weight = 20
+
+[[menu.main]]
+    identifier = "twitter"
+    pre = "<i class='fab fa-twitter fa-lg'></i>"
+    url = "https://twitter.com/aminalaee"
+    weight = 30
+
+[[menu.main]]
+    identifier = "instagram"
+    pre = "<i class='fab fa-instagram fa-lg'></i>"
+    url = "https://instagram.com/amin.alaee"
+    weight = 40
+
+[[menu.main]]
+    identifier = "github"
+    pre = "<i class='fab fa-github fa-lg'></i>"
+    url = "https://git.petrichor-app.com"
+    weight = 50
+
+[[menu.main]]
+    identifier = "email"
+    pre = "<i class='fa fa-envelope fa-lg'></i>"
+    url = "mailto:me@aminalaee.ir"
+    weight = 60
