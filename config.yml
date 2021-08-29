@@ -1,0 +1,67 @@
+baseURL: 'https://aminalaee.ir'
+title: Amin Alaee
+theme: PaperMod
+defaultContentLanguage: en
+enableRobotsTXT: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+languages:
+  fa:
+    weight: 2
+    title: امین علایی
+    languagedirection: rtl
+    languageName: ':iran:'
+    languageAltTitle: فارسی
+    description: وبسایت شخصی
+    keywords:
+      - وبلاگ
+      - برنامه‌نویسی
+      - برنامه نویسی
+    author: امین
+    label:
+      text: خانه
+    profileMode:
+      enabled: true
+      title: امین علایی
+      subtitle: توسعه دهنده نرم‌افزار و علاقه مند به Open Source.
+
+  en:
+    weight: 1
+    languageName: ':gb:'
+    languageAltTitle: English
+    title: Amin Alaee
+    description: Personal Website
+    keywords:
+      - Blog
+      - Software Developer
+    author: Amin
+    label:
+      text: Home
+    profileMode:
+      enabled: true
+      title: Amin Alaee
+      subtitle: I'm a software developer and open-source enthusiast.
+
+params:
+  defaultTheme: light
+  disableThemeToggle: true
+  displayFullLangName: true
+  socialIcons:
+    - name: github
+      url: 'https://github.com/aminalaee'
+    - name: twitter
+      url: 'https://twitter.com/aminalaee'
+    - name: instagram
+      url: 'https://instagram.com/amin.alaee'
+    - name: email
+      url: 'mailto:mohammadamin.alaee@gmail.com'
+
