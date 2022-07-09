@@ -1,4 +1,4 @@
-baseURL: 'https://aminalaee.ir'
+baseURL: 'https://aminalaee.dev'
 title: Amin Alaee
 theme: PaperMod
 defaultContentLanguage: en
@@ -14,47 +14,20 @@ outputs:
     - RSS
     - JSON
 
-languages:
-  fa:
-    weight: 2
-    title: امین علایی
-    languagedirection: rtl
-    languageName: ':iran:'
-    languageAltTitle: فارسی
-    description: وبسایت شخصی
-    keywords:
-      - وبلاگ
-      - برنامه‌نویسی
-      - برنامه نویسی
-    author: امین
-    label:
-      text: خانه
-    profileMode:
-      enabled: true
-      title: امین علایی
-      subtitle: توسعه دهنده نرم‌افزار و علاقه مند به Open Source.
-
-  en:
-    weight: 1
-    languageName: ':gb:'
-    languageAltTitle: English
-    title: Amin Alaee
-    description: Personal Website
-    keywords:
-      - Blog
-      - Software Developer
-    author: Amin
-    label:
-      text: Home
-    profileMode:
-      enabled: true
-      title: Amin Alaee
-      subtitle: I'm a software developer and open-source enthusiast.
-
 params:
   defaultTheme: light
   disableThemeToggle: true
   displayFullLangName: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+
+  homeInfoParams:
+    Title: Amin Alaee
+    Content: I'm a software developer and open-source enthusiast.
+
   socialIcons:
     - name: github
       url: 'https://github.com/aminalaee'
@@ -65,3 +38,9 @@ params:
     - name: email
       url: 'mailto:mohammadamin.alaee@gmail.com'
 
+menu:
+  main:
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 10
