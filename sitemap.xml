@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://aminalaee.ir/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://aminalaee.ir/fa/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://aminalaee.dev/</loc>
+  </url><url>
+    <loc>https://aminalaee.dev/archives/</loc>
+  </url><url>
+    <loc>https://aminalaee.dev/categories/</loc>
+  </url><url>
+    <loc>https://aminalaee.dev/tags/</loc>
+  </url>
+</urlset>

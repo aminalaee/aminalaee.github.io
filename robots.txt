@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://aminalaee.ir/sitemap.xml
+Sitemap: https://aminalaee.dev/sitemap.xml
