@@ -3,11 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aminalaee.dev/</loc>
+    <lastmod>2022-09-14T15:09:46+02:00</lastmod>
+  </url><url>
+    <loc>https://aminalaee.dev/tags/logging/</loc>
+    <lastmod>2022-09-14T15:09:46+02:00</lastmod>
+  </url><url>
+    <loc>https://aminalaee.dev/tags/picologging/</loc>
+    <lastmod>2022-09-14T15:09:46+02:00</lastmod>
+  </url><url>
+    <loc>https://aminalaee.dev/posts/</loc>
+    <lastmod>2022-09-14T15:09:46+02:00</lastmod>
+  </url><url>
+    <loc>https://aminalaee.dev/tags/python/</loc>
+    <lastmod>2022-09-14T15:09:46+02:00</lastmod>
+  </url><url>
+    <loc>https://aminalaee.dev/posts/2022/python-json-logging/</loc>
+    <lastmod>2022-09-14T15:09:46+02:00</lastmod>
+  </url><url>
+    <loc>https://aminalaee.dev/tags/</loc>
+    <lastmod>2022-09-14T15:09:46+02:00</lastmod>
   </url><url>
     <loc>https://aminalaee.dev/archives/</loc>
   </url><url>
     <loc>https://aminalaee.dev/categories/</loc>
-  </url><url>
-    <loc>https://aminalaee.dev/tags/</loc>
   </url>
 </urlset>
