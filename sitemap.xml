@@ -3,7 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aminalaee.dev/</loc>
-    <lastmod>2022-09-14T15:09:46+02:00</lastmod>
+    <lastmod>2022-11-01T12:48:06+01:00</lastmod>
+  </url><url>
+    <loc>https://aminalaee.dev/tags/aws/</loc>
+    <lastmod>2022-11-01T12:48:06+01:00</lastmod>
+  </url><url>
+    <loc>https://aminalaee.dev/tags/fastapi/</loc>
+    <lastmod>2022-11-01T12:48:06+01:00</lastmod>
+  </url><url>
+    <loc>https://aminalaee.dev/posts/2022/fastapi-aws-lambda/</loc>
+    <lastmod>2022-11-01T12:48:06+01:00</lastmod>
+  </url><url>
+    <loc>https://aminalaee.dev/tags/lambda/</loc>
+    <lastmod>2022-11-01T12:48:06+01:00</lastmod>
+  </url><url>
+    <loc>https://aminalaee.dev/tags/mangum/</loc>
+    <lastmod>2022-11-01T12:48:06+01:00</lastmod>
+  </url><url>
+    <loc>https://aminalaee.dev/posts/</loc>
+    <lastmod>2022-11-01T12:48:06+01:00</lastmod>
+  </url><url>
+    <loc>https://aminalaee.dev/tags/starlette/</loc>
+    <lastmod>2022-11-01T12:48:06+01:00</lastmod>
+  </url><url>
+    <loc>https://aminalaee.dev/tags/</loc>
+    <lastmod>2022-11-01T12:48:06+01:00</lastmod>
   </url><url>
     <loc>https://aminalaee.dev/tags/logging/</loc>
     <lastmod>2022-09-14T15:09:46+02:00</lastmod>
@@ -11,16 +35,10 @@
     <loc>https://aminalaee.dev/tags/picologging/</loc>
     <lastmod>2022-09-14T15:09:46+02:00</lastmod>
   </url><url>
-    <loc>https://aminalaee.dev/posts/</loc>
-    <lastmod>2022-09-14T15:09:46+02:00</lastmod>
-  </url><url>
     <loc>https://aminalaee.dev/tags/python/</loc>
     <lastmod>2022-09-14T15:09:46+02:00</lastmod>
   </url><url>
     <loc>https://aminalaee.dev/posts/2022/python-json-logging/</loc>
-    <lastmod>2022-09-14T15:09:46+02:00</lastmod>
-  </url><url>
-    <loc>https://aminalaee.dev/tags/</loc>
     <lastmod>2022-09-14T15:09:46+02:00</lastmod>
   </url><url>
     <loc>https://aminalaee.dev/archives/</loc>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>starlette on Amin Alaee</title>
+    <link>https://aminalaee.dev/tags/starlette/</link>
+    <description>Recent content in starlette on Amin Alaee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Nov 2022 12:48:06 +0100</lastBuildDate><atom:link href="https://aminalaee.dev/tags/starlette/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FastAPI AWS Lambda deployment</title>
+      <link>https://aminalaee.dev/posts/2022/fastapi-aws-lambda/</link>
+      <pubDate>Tue, 01 Nov 2022 12:48:06 +0100</pubDate>
+      
+      <guid>https://aminalaee.dev/posts/2022/fastapi-aws-lambda/</guid>
+      <description>How to deploy a larger FastAPI application to AWS Lambda?</description>
+    </item>
+    
+  </channel>
+</rss>

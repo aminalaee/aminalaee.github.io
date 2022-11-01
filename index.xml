@@ -5,7 +5,16 @@
     <link>https://aminalaee.dev/</link>
     <description>Recent content on Amin Alaee</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 14 Sep 2022 15:09:46 +0200</lastBuildDate><atom:link href="https://aminalaee.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Nov 2022 12:48:06 +0100</lastBuildDate><atom:link href="https://aminalaee.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FastAPI AWS Lambda deployment</title>
+      <link>https://aminalaee.dev/posts/2022/fastapi-aws-lambda/</link>
+      <pubDate>Tue, 01 Nov 2022 12:48:06 +0100</pubDate>
+      
+      <guid>https://aminalaee.dev/posts/2022/fastapi-aws-lambda/</guid>
+      <description>How to deploy a larger FastAPI application to AWS Lambda?</description>
+    </item>
+    
     <item>
       <title>Python JSON Logging</title>
       <link>https://aminalaee.dev/posts/2022/python-json-logging/</link>
