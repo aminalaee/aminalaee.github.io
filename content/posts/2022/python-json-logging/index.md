@@ -13,7 +13,7 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 cover:
-    image: "https://www.loggly.com/wp-content/uploads/2017/03/0000_why-json-is-the-best-application-log-format-and-how-to-switch.png"
+    image: "images/json.png"
     alt: "JSON Logging"
     caption: "Taken from loggly.com"
     relative: false
