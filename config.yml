@@ -17,7 +17,7 @@ outputs:
 
 params:
   defaultTheme: light
-  disableThemeToggle: true
+  env: production
   displayFullLangName: true
   ShowReadingTime: true
   ShowShareButtons: true
@@ -45,6 +45,3 @@ menu:
       name: Archives
       url: /archives/
       weight: 10
-
-params:
-  env: production 
