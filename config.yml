@@ -3,6 +3,7 @@ title: Amin Alaee
 theme: PaperMod
 defaultContentLanguage: en
 enableRobotsTXT: true
+googleAnalytics: G-MV427T1Z9X
 
 minify:
   disableXML: true
@@ -44,3 +45,6 @@ menu:
       name: Archives
       url: /archives/
       weight: 10
+
+params:
+  env: production 
