@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>python on Amin Alaee</title>
-    <link>https://aminalaee.dev/tags/python/</link>
-    <description>Recent content in python on Amin Alaee</description>
+    <title>pydantic on Amin Alaee</title>
+    <link>https://aminalaee.dev/tags/pydantic/</link>
+    <description>Recent content in pydantic on Amin Alaee</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 26 Jan 2023 16:53:06 +0100</lastBuildDate><atom:link href="https://aminalaee.dev/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Jan 2023 16:53:06 +0100</lastBuildDate><atom:link href="https://aminalaee.dev/tags/pydantic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pydantic Settings with AWS Secrets Manager</title>
       <link>https://aminalaee.dev/posts/2023/pydantic-settings-secret-manager/</link>
@@ -16,15 +16,6 @@
 Let&amp;rsquo;s see a minimal example. First we need to set up the variable:
 $ export API_KEY=xxx And then we can read it into the Settings class with:
 from pydantic import BaseSettings class Settings(BaseSettings): api_key: str print(Settings().</description>
-    </item>
-    
-    <item>
-      <title>Python JSON Logging</title>
-      <link>https://aminalaee.dev/posts/2022/python-json-logging/</link>
-      <pubDate>Wed, 14 Sep 2022 15:09:46 +0200</pubDate>
-      
-      <guid>https://aminalaee.dev/posts/2022/python-json-logging/</guid>
-      <description>How to do simple JSON logging in Python?</description>
     </item>
     
   </channel>

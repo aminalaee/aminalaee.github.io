@@ -5,7 +5,19 @@
     <link>https://aminalaee.dev/tags/aws/</link>
     <description>Recent content in aws on Amin Alaee</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Nov 2022 12:48:06 +0100</lastBuildDate><atom:link href="https://aminalaee.dev/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Jan 2023 16:53:06 +0100</lastBuildDate><atom:link href="https://aminalaee.dev/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pydantic Settings with AWS Secrets Manager</title>
+      <link>https://aminalaee.dev/posts/2023/pydantic-settings-secret-manager/</link>
+      <pubDate>Thu, 26 Jan 2023 16:53:06 +0100</pubDate>
+      
+      <guid>https://aminalaee.dev/posts/2023/pydantic-settings-secret-manager/</guid>
+      <description>Intro If you are already familiar with Pydantic, one of the useful components of Pydantic is the Settings Management. This will allow you to read settings variables from different sources and parse and validate them into class(es) using Pydantic.
+Let&amp;rsquo;s see a minimal example. First we need to set up the variable:
+$ export API_KEY=xxx And then we can read it into the Settings class with:
+from pydantic import BaseSettings class Settings(BaseSettings): api_key: str print(Settings().</description>
+    </item>
+    
     <item>
       <title>FastAPI AWS Lambda deployment</title>
       <link>https://aminalaee.dev/posts/2022/fastapi-aws-lambda/</link>
