@@ -12,6 +12,8 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
+showtoc: true
+tocopen: true
 cover:
     image: "images/json.png"
     alt: "JSON Logging"
