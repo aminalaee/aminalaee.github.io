@@ -5,7 +5,43 @@
     <link>https://aminalaee.dev/tags/</link>
     <description>Recent content in Tags on Amin Alaee</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 26 Jan 2023 16:53:06 +0100</lastBuildDate><atom:link href="https://aminalaee.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Feb 2023 12:00:47 +0100</lastBuildDate><atom:link href="https://aminalaee.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>http</title>
+      <link>https://aminalaee.dev/tags/http/</link>
+      <pubDate>Thu, 16 Feb 2023 12:00:47 +0100</pubDate>
+      
+      <guid>https://aminalaee.dev/tags/http/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>httpx</title>
+      <link>https://aminalaee.dev/tags/httpx/</link>
+      <pubDate>Thu, 16 Feb 2023 12:00:47 +0100</pubDate>
+      
+      <guid>https://aminalaee.dev/tags/httpx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://aminalaee.dev/tags/python/</link>
+      <pubDate>Thu, 16 Feb 2023 12:00:47 +0100</pubDate>
+      
+      <guid>https://aminalaee.dev/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>requests</title>
+      <link>https://aminalaee.dev/tags/requests/</link>
+      <pubDate>Thu, 16 Feb 2023 12:00:47 +0100</pubDate>
+      
+      <guid>https://aminalaee.dev/tags/requests/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>aws</title>
       <link>https://aminalaee.dev/tags/aws/</link>
@@ -21,15 +57,6 @@
       <pubDate>Thu, 26 Jan 2023 16:53:06 +0100</pubDate>
       
       <guid>https://aminalaee.dev/tags/pydantic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://aminalaee.dev/tags/python/</link>
-      <pubDate>Thu, 26 Jan 2023 16:53:06 +0100</pubDate>
-      
-      <guid>https://aminalaee.dev/tags/python/</guid>
       <description></description>
     </item>
     

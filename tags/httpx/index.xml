@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>httpx on Amin Alaee</title>
+    <link>https://aminalaee.dev/tags/httpx/</link>
+    <description>Recent content in httpx on Amin Alaee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 16 Feb 2023 12:00:47 +0100</lastBuildDate><atom:link href="https://aminalaee.dev/tags/httpx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python requests Connection Pool</title>
+      <link>https://aminalaee.dev/posts/2023/python-requests-persistent-connections/</link>
+      <pubDate>Thu, 16 Feb 2023 12:00:47 +0100</pubDate>
+      
+      <guid>https://aminalaee.dev/posts/2023/python-requests-persistent-connections/</guid>
+      <description>Summary Recently I was working on a project that integrated with some internal and external APIs using HTTP requests. You probably have heard about or worked with the requests package in Python which is lile the de-facto HTTP client package which is much more easier to work with compared to the built-in HTTP module of Python.
+The previous implementation in our project was using the requests library and for each new request it did something like requests.</description>
+    </item>
+    
+  </channel>
+</rss>
