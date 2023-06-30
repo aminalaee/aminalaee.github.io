@@ -5,7 +5,19 @@
     <link>https://aminalaee.dev/tags/python/</link>
     <description>Recent content in python on Amin Alaee</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 Feb 2023 12:00:47 +0100</lastBuildDate><atom:link href="https://aminalaee.dev/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Jun 2023 12:00:06 +0100</lastBuildDate><atom:link href="https://aminalaee.dev/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pytest async tests and fixtures</title>
+      <link>https://aminalaee.dev/posts/2023/pytest-async-tests/</link>
+      <pubDate>Thu, 29 Jun 2023 12:00:06 +0100</pubDate>
+      
+      <guid>https://aminalaee.dev/posts/2023/pytest-async-tests/</guid>
+      <description>Async tests and fixtures Pytest already has the official pytest-asyncio plugin which allows you to write async tests and fixtures.
+According to pytest-asyncio docs, you can have an async test with an async fixture like this:
+from typing import Any, AsyncGenerator import pytest import pytest_asyncio from httpx import AsyncClient @pytest_asyncio.fixture async def client() -&amp;gt; AsyncGenerator[AsyncClient, Any]: async with AsyncClient() as c: yield c @pytest.mark.asyncio async def test_api_call(client: AsyncClient) -&amp;gt; None: response = await client.</description>
+    </item>
+    
     <item>
       <title>Python requests Connection Pool</title>
       <link>https://aminalaee.dev/posts/2023/python-requests-persistent-connections/</link>
