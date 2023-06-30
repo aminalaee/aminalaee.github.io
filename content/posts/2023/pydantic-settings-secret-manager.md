@@ -14,12 +14,6 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 showtoc: true
 tocopen: true
-cover:
-    image: ""
-    alt: ""
-    caption: ""
-    relative: false
-    hidden: true
 ---
 
 ## Intro
