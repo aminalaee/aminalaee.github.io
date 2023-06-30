@@ -27,15 +27,16 @@ params:
 
   homeInfoParams:
     Title: Amin Alaee
-    Content: I'm a software developer and open-source enthusiast.
+    Content: |
+      I'm a software developer and open-source enthusiast.
+
+      Feel free to  check my projects on GitHub and get in touch with me.
 
   socialIcons:
     - name: github
       url: 'https://github.com/aminalaee'
     - name: twitter
       url: 'https://twitter.com/aminalaee'
-    - name: instagram
-      url: 'https://instagram.com/amin.alaee'
     - name: email
       url: 'mailto:mohammadamin.alaee@gmail.com'
 
